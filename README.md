@@ -138,7 +138,7 @@ Analytics focus: growth analytics, consumer behaviour, business intelligence
 
 This analysis was conducted as part of a broader practice of applying structured analytical frameworks to high-profile business claims — the same methodology used in client-facing analytics work.
 
-[LinkedIn](https://www.linkedin.com/in/igustiagungvadayogi) · [GitHub](https://github.com/igustiraharja)
+[LinkedIn](https://www.linkedin.com/in/vadayogi) · [GitHub](https://github.com/Igavadayogi)
 
 ---
 
