@@ -646,25 +646,4 @@ V4 is a genuine catalyst but not the foundation of the claim. The structural dem
 
 ---
 
-## LinkedIn Post Draft
-
-**Angle:** Business analytics case study — how to stress-test a big market claim when the primary source is anonymous
-
-**Target audience:** Data analysts, business professionals, Indonesian tech/business community
-**Tone:** Insight-driven, short, counterintuitive hook
-
----
-
-A major tech company claims 60% revenue growth. The source? Anonymous.
-
-Here's how I'd actually analyse that claim — and what five layers of data revealed.
-
-Huawei's $12B AI chip projection for 2026 can't be verified from official filings. But triangulating from competitor earnings, unit shipment data, and named buyer commitments tells a clearer story than the headline does.
-
-The base case the data actually supports: $8–10B. Still extraordinary. Still the biggest shift in AI hardware in a decade.
-
-The lesson: when you can't verify a claim directly, build it from three independent directions. If they all point the same way, you have your answer.
-
----
-
 *Document complete — May 4, 2026*
