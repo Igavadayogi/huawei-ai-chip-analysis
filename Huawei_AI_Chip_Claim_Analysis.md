@@ -668,16 +668,3 @@ The lesson: when you can't verify a claim directly, build it from three independ
 ---
 
 *Document complete — May 4, 2026*
-
----
-
-## LinkedIn Post Draft (Work in Progress)
-
-*To be developed after Step 5 is complete. Angle: "Here's how I'd actually analyze Huawei's $12B AI chip claim — and what the data actually shows."*
-
-**Target audience:** Business analysts, data professionals, Indonesian tech/business community
-**Tone:** Insight-driven, short (3–5 lines), with a counterintuitive hook
-
----
-
-*Document complete — May 4, 2026 — All 5 steps + overall verdict + LinkedIn draft*
