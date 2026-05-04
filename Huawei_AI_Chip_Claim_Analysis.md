@@ -1,5 +1,5 @@
 # Huawei AI Chip Revenue Claim — Analytics Investigation
-**Analyst:** Igusti Agung Vadayogi Raharja (Gungdek)
+**Analyst:** Igusti Agung Vadayogi Raharja
 **Date started:** May 4, 2026
 **Purpose:** Validate Huawei's claim of 60% AI chip revenue growth to ~$12B in 2026 using public data and triangulation. Documents both the analytical process and findings for potential LinkedIn content.
 
